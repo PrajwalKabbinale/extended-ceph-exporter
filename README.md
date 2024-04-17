@@ -1,5 +1,11 @@
 # extended-ceph-exporter
 
+## Project will be maintained at [GitHub galexrt/extended-ceph-exporter](https://github.com/galexrt/extended-ceph-exporter)
+
+Due to the closure of Koor Technologies, Inc., the project will be maintained under [GitHub galexrt/extended-ceph-exporter](https://github.com/galexrt/extended-ceph-exporter).
+
+***
+
 A Prometheus exporter to provide "extended" metrics about a Ceph cluster's running components (e.g., RGW).
 
 [![Ceph - RGW Bucket Usage Overview Grafana Dashboard Screenshot](grafana/ceph-rgw-bucket-usage-overview.png)](grafana/)
